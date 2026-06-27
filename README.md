@@ -1,4 +1,4 @@
-# Projectile Motion Simulator
+# Projectile-Motion-Simulator
 
 A Pygame-based simulator that animates a projectile's flight path and calculates its landing range from user-supplied launch velocity, angle, and height.
 
